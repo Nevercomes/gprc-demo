@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "grpc.server.host",
+      "type": "java.lang.String",
+      "description": "grpc server host."
+    },
+    {
+      "name": "grpc.server.port",
+      "type": "java.lang.Integer",
+      "description": "grpc server port."
+    }
+  ]
+}
